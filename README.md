@@ -1,6 +1,8 @@
 # 2019 AM:PM 2nd Hackathon
 ![poster](https://raw.githubusercontent.com/NamSSu/2019_ampm_2nd_hackathon/master/img/poster.png)
 
+## [신청하려면 클릭!](https://c11.kr/2019ampmhack)
+
 # 목차
 ### 1. 안내사항
 1)  [대회장소](#1-대회장소)

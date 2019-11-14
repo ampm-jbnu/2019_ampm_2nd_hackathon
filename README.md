@@ -67,6 +67,7 @@
 >기획, 개발 단계에서 궁금한 점은 스태프에게 도움을 요청하세요~
 
 ### 13. 발표 pdf 파일
+[Session1 : Git사용법](https://github.com/NamSSu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_git.pdf)
 
 
 

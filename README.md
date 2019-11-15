@@ -69,6 +69,8 @@
 ### 13. 발표 pdf 파일
 [Session1 : Git사용법](https://github.com/NamSSu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_git.pdf)
 
+[Session2 : Web서버 활용](https://github.com/NamSSu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_web.pdf)
+
 
 
 # 2. 결과물 제출 및 평가안내

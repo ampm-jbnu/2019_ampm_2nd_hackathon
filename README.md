@@ -1,7 +1,7 @@
 # 2019 AM:PM 2nd Hackathon
-![poster](https://raw.githubusercontent.com/NamSSu/2019_ampm_2nd_hackathon/master/img/poster.png)
+![poster](https://raw.githubusercontent.com/ampm-jbnu/2019_ampm_2nd_hackathon/master/img/poster.png)
 
-## [신청하려면 클릭!](https://c11.kr/2019ampmhack)
+## [신청하려면 클릭! - 종료](https://c11.kr/2019ampmhack)
 
 # 목차
 ### 1. 안내사항
@@ -25,7 +25,7 @@
 
 # 1. 안내사항
 ### 1. 대회장소
-![location](https://raw.githubusercontent.com/NamSSu/2019_ampm_2nd_hackathon/master/img/location.PNG)
+![location](https://raw.githubusercontent.com/ampm-jbnu/2019_ampm_2nd_hackathon/master/img/location.PNG)
 
 - __본 대회 장소:__ 공과대학 3호관 3층 해동학술관  
 - __폐회 장소:__ 공과대학 5호관 4층 414호
@@ -80,9 +80,9 @@ __피자마루__
 >기획, 개발 단계에서 궁금한 점은 스태프에게 도움을 요청하세요~
 
 ### 13. 발표 pdf 파일
-[Session1 : Git사용법](https://github.com/NamSSu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_git.pdf)
+[Session1 : Git사용법](https://github.com/ampm-jbnu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_git.pdf)
 
-[Session2 : Web서버 활용](https://github.com/NamSSu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_web.pdf)
+[Session2 : Web서버 활용](https://github.com/ampm-jbnu/2019_ampm_2nd_hackathon/raw/master/pdf/2019ampm_web.pdf)
 
 
 
